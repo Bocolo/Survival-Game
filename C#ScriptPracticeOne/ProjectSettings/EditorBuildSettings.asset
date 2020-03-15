@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/CircleGameComplete/CircleGameScenes/CompletedScenes/WelcomScene.unity
+    path: Assets/MySurvivalGame/CircleGameScenes/CompletedScenes/WelcomScene.unity
     guid: 3d0dd46e98ed5384399f87bae51f2900
   - enabled: 1
-    path: Assets/CircleGameComplete/CircleGameScenes/CompletedScenes/LevelOne.unity
+    path: Assets/MySurvivalGame/CircleGameScenes/CompletedScenes/LevelOne.unity
     guid: cab4c01894de19243b1e85c07e1553a3
   - enabled: 1
-    path: Assets/CircleGameComplete/CircleGameScenes/CompletedScenes/Credits.unity
+    path: Assets/MySurvivalGame/CircleGameScenes/CompletedScenes/Credits.unity
     guid: d6d12e36d994c3a42b03f600f78e67a5
   m_configObjects: {}
