@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - Exit
+  - Enemy
+  - Soda
+  - Undefined
+  - Buller
+  - Bullet
+  - BBTrigger
+  - AreaBoundary
+  - GameManager
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3131993583
+    locked: 0
+  - name: Items
+    uniqueID: 1861650685
+    locked: 0
+  - name: Units
+    uniqueID: 3393972251
+    locked: 0
+  - name: UI_Back
+    uniqueID: 3370775917
+    locked: 0
+  - name: UI_Fore
+    uniqueID: 3982393029
+    locked: 0
