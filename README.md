@@ -14,4 +14,4 @@ First ever pixel art and animations, created through Krita.
 
 
 Created in March 2020.
-Only edits since, to remove unused code.
+Only edits since: To remove unused code.
