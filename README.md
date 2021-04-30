@@ -1,5 +1,5 @@
 
-My first ever complete solo project.
+My first ever project.
 
 # Survival-Game
 Survival shooter game.  Incorporating pacman/space invader aspects.
